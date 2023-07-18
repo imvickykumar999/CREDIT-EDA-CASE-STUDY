@@ -1,3 +1,8 @@
+
+    !jupyter nbconvert --to markdown Credit_EDA_Assignment.ipynb --output README.md
+
+------------
+
 ```python
 import numpy as np
 import pandas as pd
